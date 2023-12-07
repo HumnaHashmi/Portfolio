@@ -1,6 +1,6 @@
 import React from 'react';
 import mainImg from '../images/portfolio im2.jpg';
-import resume from '../images/Humna_Hashmi_Resume.pdf';
+import resume from '../images/Humna-Hashmi-Resume.pdf';
 
 function About() {
   return (

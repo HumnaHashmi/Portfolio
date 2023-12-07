@@ -6,12 +6,16 @@ const skillData = [
     'JavaScript',
     'JQuery',
     'React JS',
+    'Next JS',
+    'Redux JS',
+    'Rest API',
     'Python',
     'Django',
     'Flask',
     'SQL',
     'SQLite',
-    'Git and GitHub',
+    'postgresql',
+    'Git , GitHub and Git Lab',
   ];
   
   export default skillData;
